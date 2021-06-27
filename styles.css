@@ -91,17 +91,3 @@ span
     }
 
 }
-@media(max-height:992px)
-{
-    .card2,.work
-    {
-        
-        border-top-right-radius: 0;
-        border-bottom-left-radius: 5px;
-    }
-    .card1
-    {
-        border-top-right-radius: 5px;
-        border-bottom-left-radius: 0px;
-    }
-}
